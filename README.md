@@ -3,3 +3,5 @@
 Demo repository is a repository built for training.  Part of the Udacity git course.
 
 This is for training.
+
+Changing both files.
